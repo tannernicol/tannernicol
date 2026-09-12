@@ -8,4 +8,4 @@ Most of what I build runs on hardware I control, so it lives in a private homela
 
 ### Links
 
-[tannner.com](https://tannner.com) &#183; [LinkedIn](https://linkedin.com/in/tanner-nicol-60b21126)
+[tannner.com](https://tannner.com)
